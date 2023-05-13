@@ -25,14 +25,8 @@ I am a B.Tech Computer Science student studying at Kerala Technological Universi
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Drtech-859&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=Drtech-859&icon=2&color=1)](https://visitcount.itsvg.in)
-
   ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://bmc.link/drtech859) 
+  <a href="https://www.buymeacoffee.com/drtech859"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=drtech859&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

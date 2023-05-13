@@ -1,5 +1,5 @@
-### </> Hi there 👋
-# 💫 About Me:
+### <>  Hello World!  </>
+ 
 
 I am a B.Tech Computer Science student studying at Kerala Technological University. As a tech enthusiast and frontend developer, I have been working on various topics such as full-stack web development, machine learning, deep learning, and coding.<br><br>I am passionate about collaborating with like-minded individuals for peer-to-peer learning, development, and networking. I believe that working together can help us achieve great things and drive innovation in the tech industry.
 
@@ -32,23 +32,19 @@ I am a B.Tech Computer Science student studying at Kerala Technological Universi
 
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Drtech-859&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
 
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 
 
 ### 🔝 Top Contributed Repo
+###
+###
 ![](https://github-contributor-stats.vercel.app/api?username=Drtech-859&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 
 
 
-  ## 💰 "Need a break from coding! Buy me a coffee and let's fuel our inspiration together!"
+  ##  "Need a break from coding! Buy me a coffee and let's fuel our inspiration together!"
   <a href="https://www.buymeacoffee.com/drtech859"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=drtech859&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
 
   

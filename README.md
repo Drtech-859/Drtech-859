@@ -40,12 +40,3 @@ I am a B.Tech Computer Science student studying at Kerala Technological Universi
 ###
 ###
 ![](https://github-contributor-stats.vercel.app/api?username=Drtech-859&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-
-
-  ##  "Need a break from coding! Buy me a coffee and let's fuel our inspiration together!"
-  <a href="https://www.buymeacoffee.com/drtech859"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=drtech859&button_colour=FFDD00&font_colour=000000&font_family=Comic&outline_colour=000000&coffee_colour=ffffff" /></a>
-
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

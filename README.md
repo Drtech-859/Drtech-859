@@ -15,7 +15,7 @@ I am a B.Tech Computer Science student studying at Kerala Technological Universi
 
 # 💻 Tech Stack:
 
-<div align="left"> 
+<div align="left" style="display:flex;"> 
   <div style="display: inline-block; text-align: center; margin: 10px;">
     <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="Babel" width="40" height="40" style="margin: 5px;"/>
     <p>Babel</p>
